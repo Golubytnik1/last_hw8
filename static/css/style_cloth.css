@@ -1,0 +1,18 @@
+body {
+    background: url("https://www.notizie.it/wp-content/uploads/2017/07/Carhartt.jpg");
+}
+
+footer {
+  display: block;
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: black;
+}
+
+hr {
+    border: none;
+    color: darkorange;
+    background-color: darkorange;
+    height: 12px;
+   }
